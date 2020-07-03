@@ -73,17 +73,20 @@ p{
     .box-1{
         height: 200px;
         width:31%;
+        overflow:hidden;
         float:left;
     }
     .box-2{
         height: 200px;
         width:31%;
         float:left;
+        overflow:hidden;
     }
     .box-3{
         height: 200px;
         width:31%;
         float:left;
+        overflow:hidden;
         }
     }
 
@@ -93,15 +96,18 @@ p{
         width:36%;
         float:left;
         margin-right:10%;
+        overflow:hidden;
     }
     .box-2{
         width:36%;
         float:left;
         margin-left:10%;
+        overflow:hidden;
     }
     .box-3{
         width:92%;
         clear:left;
+        overflow:hidden;
         }
     }
 
